@@ -10,7 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
+[<img align="left" alt="Linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
+[<img align="left" alt="JavaScript" width="26px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png"/>][dev.to]
 
 <br/>
 
@@ -25,9 +26,11 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/>
 
-<img align="left" alt="Node.js" width="26px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"/>
+<img align="left" alt="SQL" width="26px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"/>
 
 <br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/alex-dowdney-89627622a/
+
+[dev.to]: https://dev.to/spoder
