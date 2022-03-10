@@ -10,6 +10,8 @@
 
 ### Connect with me:
 
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][https://www.linkedin.com/in/alex-dowdney-89627622a/]
+
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
