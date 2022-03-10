@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][https://www.linkedin.com/in/alex-dowdney-89627622a/]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 
 ### Languages and Tools:
 
