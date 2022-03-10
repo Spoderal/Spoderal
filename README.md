@@ -33,6 +33,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Discord Bot Blowup](https://dev.to/spoder/discord-bot-blowup-48mk)
 <!-- BLOG-POST-LIST:END -->
 
 [linkedin]: https://www.linkedin.com/in/alex-dowdney-89627622a/
