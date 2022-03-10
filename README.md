@@ -31,6 +31,10 @@
 <br />
 <br />
 
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [linkedin]: https://www.linkedin.com/in/alex-dowdney-89627622a/
 
 [dev.to]: https://dev.to/spoder
