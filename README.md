@@ -33,6 +33,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What success means](https://dev.to/spoder/what-success-means-52e9)
 - [Discord Bot Blowup](https://dev.to/spoder/discord-bot-blowup-48mk)
 <!-- BLOG-POST-LIST:END -->
 
