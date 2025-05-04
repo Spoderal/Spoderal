@@ -33,6 +33,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning PostgreSQL](https://dev.to/spoder/learning-postgresql-2co7)
 - [My week so far](https://dev.to/spoder/my-week-so-far-2cp)
 - [How mental health affects the ability to create](https://dev.to/spoder/how-mental-health-affects-the-ability-to-create-58i0)
 - [What success means](https://dev.to/spoder/what-success-means-52e9)
