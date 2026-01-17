@@ -1,9 +1,9 @@
 ### Hello world, I'm Alex! Aka Spoder 👋
 
-## Discord Developer, Gamer, and Space lover!
+## Developer focused on bringing creativity and fun into real world programming projects
 
-- 💻 Currently working on a [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=932455367777067079&permissions=321536&scope=bot%20applications.commands)!
-- 📕 Love to learn
+- 💻 Building and scaling a Discord bot used by thousands of users
+- 📕 Constantly building, refactoring, and learning through real projects
 - 🚀 In love with outer space
 
 ### Connect with me:
@@ -31,6 +31,12 @@
 
 <br />
 <br />
+
+### What I build
+
+Scalable Discord bots with game systems, economies, and databases
+Web-based simulations and space-themed games
+Backend-heavy projects using Node.js, databases, and APIs
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
