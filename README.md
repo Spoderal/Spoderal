@@ -34,9 +34,9 @@
 
 ### What I build
 
-Scalable Discord bots with game systems, economies, and databases
-Web-based simulations and space-themed games
-Backend-heavy projects using Node.js, databases, and APIs
+- Scalable Discord bots with game systems, economies, and databases<br />
+- Web-based simulations and space-themed games<br />
+- Backend-heavy projects using Node.js, databases, and APIs<br />
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
