@@ -1,6 +1,6 @@
 ### Hello world, I'm Alex! Aka Spoder 👋
 
-## Developer focused on bringing creativity and fun into real world programming projects
+## Creative developer specializing in software
 
 - 💻 Building and scaling a Discord bot used by thousands of users
 - 📕 Constantly building, refactoring, and learning through real projects
